@@ -1,0 +1,1 @@
+{"Printers":{"printer1":{"id":"printer1","company":"Creality","model":"Ender 3"}},"Filaments":{"filament1":{"id":"filament1","type":"PLA","color":"Red","totalWeightInGrams":1000,"remainingWeightInGrams":350}},"PrintJobs":{"job1":{"id":"job1","printerID":"printer1","filamentID":"filament1","filePath":"","printWeightInGrams":150,"status":"Done"}}}

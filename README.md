@@ -13,8 +13,8 @@ This project is part of the Cloud Computing curriculum at PES University.
 
 ## Technologies Used
 
-- Language: Go (recommended), Python, or Java (with manual FSM support)
-- Raft Library: hashicorp/raft, dragonboat, openraft, or similar
+- Language: Go 
+- Raft Library: hashicorp/raft
 - REST API: HTTP Server of your chosen language
 - Optional: Docker or multi-process setup for simulating nodes
 
